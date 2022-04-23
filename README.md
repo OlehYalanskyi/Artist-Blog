@@ -1,2 +1,2 @@
 # Artist-Blog
-###Peppy
+Peppy
